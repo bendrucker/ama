@@ -4,6 +4,8 @@ Ask me questions about building web applications via GitHub Issues. To ask, [ope
 
 ## Topics
 
+Below is a non-exhaustive list of things I like to discuss. Feel free to ask about something that's not on this list as well if you think I'd have a good answer.
+
 #### Technologies
 
 * JavaScript
@@ -19,6 +21,7 @@ Ask me questions about building web applications via GitHub Issues. To ask, [ope
 * Open source
 * Test driven development
 * API design
+* JavaScript ecosystem
 * Static sites
  
 ## Code of Conduct
