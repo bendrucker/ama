@@ -1,6 +1,6 @@
-# discuss
+# ama
 
-Ask me questions about building web applications via GitHub Issues. To ask, [open a new issue](https://github.com/bendrucker/discuss/issues/new).
+Ask me anything via GitHub Issues. To ask, [open a new issue](https://github.com/bendrucker/discuss/issues/new).
 
 ## Topics
 
